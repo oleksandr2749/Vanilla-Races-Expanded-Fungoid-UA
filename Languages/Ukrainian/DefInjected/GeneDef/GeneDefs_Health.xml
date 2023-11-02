@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VRE_TotalAntirotLungs.label>стійкість легенів до гнилого смороду</VRE_TotalAntirotLungs.label>
+  <VRE_TotalAntirotLungs.description>Носії цього гена мають повний імунітет до впливу гнилого смороду.</VRE_TotalAntirotLungs.description>
+
+  <VRE_PartialAntirotLungs.label>часткова стійкість легенів до гнилого смороду</VRE_PartialAntirotLungs.label>
+  <VRE_PartialAntirotLungs.description>Носії цього гена стійкіші до вливу гнилого смороду.</VRE_PartialAntirotLungs.description>
+
+
+</LanguageData>

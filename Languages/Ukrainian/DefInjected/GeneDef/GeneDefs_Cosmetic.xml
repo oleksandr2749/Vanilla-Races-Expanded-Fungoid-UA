@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VRE_FungalCrest.label>грибний гребінець</VRE_FungalCrest.label>
+  <VRE_FungalCrest.description>Carriers of this gene grow a large, colorful fungal crest protruding from the top of their head.</VRE_FungalCrest.description>
+
+  <VRE_HairMushroom.label>грибне волосся</VRE_HairMushroom.label>
+  <VRE_HairMushroom.description>Carriers of this gene have a particular hair color. With multiple hair color genes, one is randomly selected.</VRE_HairMushroom.description>
+
+  <VRE_Fungoid_Hair_DarkTan.label>темно-русяве волосся</VRE_Fungoid_Hair_DarkTan.label>
+  <VRE_Fungoid_Hair_DarkTan.description>Carriers of this gene have a particular hair color. With multiple hair color genes, one is randomly selected.</VRE_Fungoid_Hair_DarkTan.description>
+
+  <VRE_Fungoid_Hair_SwampGreen.label>болотно-зелене волосся</VRE_Fungoid_Hair_SwampGreen.label>
+  <VRE_Fungoid_Hair_SwampGreen.description>Carriers of this gene have a particular hair color. With multiple hair color genes, one is randomly selected.</VRE_Fungoid_Hair_SwampGreen.description>
+
+  <VRE_Fungoid_Hair_Salmon.label>рожево-помаранчове волосся</VRE_Fungoid_Hair_Salmon.label>
+  <VRE_Fungoid_Hair_Salmon.description>Carriers of this gene have a particular hair color. With multiple hair color genes, one is randomly selected.</VRE_Fungoid_Hair_Salmon.description>
+
+  <VRE_Fungoid_Hair_Wenge.label>дерев'яний колір волосся</VRE_Fungoid_Hair_Wenge.label>
+  <VRE_Fungoid_Hair_Wenge.description>Carriers of this gene have a particular hair color. With multiple hair color genes, one is randomly selected.</VRE_Fungoid_Hair_Wenge.description>
+
+  <VRE_Fungoid_Hair_Tumbleweed.label>піщаний колір волосся</VRE_Fungoid_Hair_Tumbleweed.label>
+  <VRE_Fungoid_Hair_Tumbleweed.description>Carriers of this gene have a particular hair color. With multiple hair color genes, one is randomly selected.</VRE_Fungoid_Hair_Tumbleweed.description>
+
+  <VRE_Fungoid_Hair_RoseTaupe.label>рожево-коричневе волосся</VRE_Fungoid_Hair_RoseTaupe.label>
+  <VRE_Fungoid_Hair_RoseTaupe.description>Carriers of this gene have a particular hair color. With multiple hair color genes, one is randomly selected.</VRE_Fungoid_Hair_RoseTaupe.description>
+
+  <VRE_Fungoid_Hair_MistyMoss.label>блідо-зелене волосся</VRE_Fungoid_Hair_MistyMoss.label>
+  <VRE_Fungoid_Hair_MistyMoss.description>Carriers of this gene have a particular hair color. With multiple hair color genes, one is randomly selected.</VRE_Fungoid_Hair_MistyMoss.description>
+
+
+</LanguageData>

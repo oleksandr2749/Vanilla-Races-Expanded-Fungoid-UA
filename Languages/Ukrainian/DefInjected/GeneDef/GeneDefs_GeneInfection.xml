@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VRE_FungalArmor.label>грибна броня</VRE_FungalArmor.label>
+  <VRE_FungalArmor.description>Носій цього гена має грибкові сплетіння в шкірі, що значно зменшує вхідну шкоду. Ефект з часом посилюється.</VRE_FungalArmor.description>
+
+  <VRE_FungalRegeneration.label>грибне зцілення</VRE_FungalRegeneration.label>
+  <VRE_FungalRegeneration.description>У носій цього гена тіло здатне самостійно зцілюватися. Ефект з часом посилюється.</VRE_FungalRegeneration.description>
+
+
+</LanguageData>

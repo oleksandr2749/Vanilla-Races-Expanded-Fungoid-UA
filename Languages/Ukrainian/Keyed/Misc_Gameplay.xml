@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+
+  <VRE_InfectionLabel>Зараження генами ({0}), {1}</VRE_InfectionLabel>
+  <VRE_InfectionDescription>Інфекція, спричинена контактом з {0}. Досягнувши 100%, колоніст перетвориться на {0}</VRE_InfectionDescription>
+  <VRE_InfectedLabel>Зараженний генами ({0} днів))</VRE_InfectedLabel>
+
+
+</LanguageData>

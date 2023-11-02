@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VRE_SelectiveBerserk.label>безтямна лють</VRE_SelectiveBerserk.label>
+  <VRE_SelectiveBerserk.beginLetter>{0} лютує.!</VRE_SelectiveBerserk.beginLetter>
+  <VRE_SelectiveBerserk.recoveryMessage>лють {0} проходить.</VRE_SelectiveBerserk.recoveryMessage>
+  <VRE_SelectiveBerserk.baseInspectLine>Розлючений.</VRE_SelectiveBerserk.baseInspectLine>
+
+
+</LanguageData>

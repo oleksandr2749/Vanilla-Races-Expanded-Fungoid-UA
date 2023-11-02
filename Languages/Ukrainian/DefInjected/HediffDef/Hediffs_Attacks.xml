@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VRE_InfectorMouth.label>рот заразника</VRE_InfectorMouth.label>
+  <VRE_InfectorMouth.description>Атаки ближнього бою від цієї людини мають 20% шанс заразити ціль своїми генами.</VRE_InfectorMouth.description>
+  <VRE_InfectorMouth.comps.0.tools.0.label>рот заразника</VRE_InfectorMouth.comps.0.tools.0.label>
+
+  <VRE_InfectorHands.label>рука заразника</VRE_InfectorHands.label>
+  <VRE_InfectorHands.description>Атаки ближнього бою від цієї людини мають 20% шанс заразити ціль своїми генами.</VRE_InfectorHands.description>
+  <VRE_InfectorHands.comps.0.tools.0.label>рука заразника</VRE_InfectorHands.comps.0.tools.0.label>
+
+</LanguageData>

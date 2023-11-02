@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VRE_ExtremeSkillLoss.label>екстремальна втрата навичок</VRE_ExtremeSkillLoss.label>
+  <VRE_ExtremeSkillLoss.description>Carriers of this gene forget skills twice as fast.</VRE_ExtremeSkillLoss.description>
+
+  <VRE_SevereSkillLoss.label>серйозна втрата навичок</VRE_SevereSkillLoss.label>
+  <VRE_SevereSkillLoss.description>Carriers of this gene forget skills 50% faster.</VRE_SevereSkillLoss.description>
+
+  <VRE_MinorSkillLoss.label>незначна втрата навичок</VRE_MinorSkillLoss.label>
+  <VRE_MinorSkillLoss.description>Carriers of this gene forget skills half as slow.</VRE_MinorSkillLoss.description>
+
+  <VRE_NoSkillLoss.label>без втрати навичок</VRE_NoSkillLoss.label>
+  <VRE_NoSkillLoss.description>Carriers of this gene do not suffer from forgetting skills.</VRE_NoSkillLoss.description>
+
+  <VRE_SkillDegradation.label>деградація навичок</VRE_SkillDegradation.label>
+  <VRE_SkillDegradation.description>Carriers of this gene suffer from forgetting skills regardless of their current skill level.</VRE_SkillDegradation.description>
+
+  <VRE_NoStudy.label>не здатний до навчання</VRE_NoStudy.label>
+  <VRE_NoStudy.description>Carriers of this gene are incapable of learning new skills.</VRE_NoStudy.description>
+
+
+</LanguageData>
